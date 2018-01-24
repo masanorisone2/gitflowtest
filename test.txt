@@ -15,8 +15,6 @@ ft21
 ft5
 
 master changeed
-<<<<<<< HEAD
 master
-=======
 ft7
->>>>>>> ft7
+ft71
